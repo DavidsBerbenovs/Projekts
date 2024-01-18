@@ -2,6 +2,7 @@
 ***WARNING kods nedarbosies github, lai tas darbojas, jums būs nepieciešams VisualStuidoCode***
 
 **Projekts ir uzrakstīts Python programmēšanas valodā un paredzēts teksta tulkošanas procesa automatizācijai starp krievu, latviešu un angļu valodu, izmantojot Google Translate. Programma nodrošina lietotājam ērtu saskarni, ļaujot viņam izvēlēties tulkošanas virzienu un ievadīt tekstu turpmākai automātiskai tulkošanai.**
+
 **Python bibliotēkas:**
   **Selenium:**
   **Izmanto, lai automatizētu Chrome tīmekļa pārlūkprogrammu.
